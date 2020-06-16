@@ -1,0 +1,4 @@
+1.  ThinkPHP6框架的下载与安装图文教程：http://www.php.cn/wenda/159638.html
+2. 《ThinkPHP6.0极速入门视频教程》：http://www.php.cn/course/1045.html
+3.  ThinkPHP6源码下载地址：http://www.php.cn/xiazai/code/5685
+4. 2019年最新的10个thinkphp视频教程推荐：http://www.php.cn/toutiao-362455.html
